@@ -21,12 +21,12 @@ WebSearch を使って、今日のニュースを検索する
 ### 3. Markdownファイルの作成
 `docs/posts/{yyyy}/{MM}/{dd}.md` に保存する
 
+- 日本語で記述する
+  - 文脈から、翻訳しないほうがよいものは、そのまま記述する
+- 社会的影響度の高いニュースを優先して選ぶ
+
 ### 4. `docs/index.md` の更新
 `docs/index.md` に保存したMarkdownファイルのリンクを追加する
 
 ## フォーマット
 `.claude/skills/create-todays-post/format.md` を参照すること
-
-## ルール
-- 日本語で記述する
-  - 文脈から、翻訳しないほうがよいものは、そのまま記述する
