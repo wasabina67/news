@@ -1,6 +1,6 @@
 ---
 name: create-todays-script
-description: wip
+description: Markdownファイルを元にスクリプトファイルを作成する
 disable-model-invocation: true
 user-invocable: true
 ---
@@ -16,7 +16,7 @@ user-invocable: true
 `scripts/{yyyy}/{MM}/{dd}.txt` に保存する
 
 - Markdownファイル（`docs/posts/{yyyy}/{MM}/{dd}.md`）を元にスクリプトファイルを作成する
-- wip
+- スクリプトファイルは、読み上げ用のナレーション原稿として利用される
 
 ## フォーマット
 `.claude/skills/create-todays-script/format.txt` を参照する
