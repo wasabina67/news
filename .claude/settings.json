@@ -2,6 +2,9 @@
   "permissions": {
     "allow": [
       "WebSearch",
+      "WebFetch",
+      "Write",
+      "Edit",
       "Bash(git commit:*)"
     ]
   }
