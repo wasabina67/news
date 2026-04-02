@@ -10,3 +10,10 @@ user-invocable: true
 ### 1. Markdownファイルの存在チェック
 
 ### 2. スクリプトの作成
+
+## フォーマット
+`.claude/skills/create-todays-script/format.txt` を参照する
+
+## ルール
+- wip
+- wip
