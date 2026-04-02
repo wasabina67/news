@@ -13,6 +13,10 @@ user-invocable: true
 - 存在しない場合は、その旨をアナウンスして終了する
 
 ### 2. スクリプトファイルの作成
+`scripts/{yyyy}/{MM}/{dd}.txt` に保存する
+
+- Markdownファイル（`docs/posts/{yyyy}/{MM}/{dd}.md`）を元にスクリプトファイルを作成する
+- wip
 
 ## フォーマット
 `.claude/skills/create-todays-script/format.txt` を参照する
