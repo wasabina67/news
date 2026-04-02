@@ -31,4 +31,9 @@ WebSearch を使って、今日のニュースを検索する
 `docs/index.md` に保存したMarkdownファイルのリンクを追加する
 
 ## フォーマット
-`.claude/skills/create-todays-post/format.md` を参照すること
+`.claude/skills/create-todays-post/format.md` を参照する
+
+## ルール
+
+- 既に同じ日付のMarkdownファイルが存在する場合は、上書きする
+- 過去の日付のMarkdownファイルでは作成しない
