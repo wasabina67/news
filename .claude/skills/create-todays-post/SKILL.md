@@ -37,6 +37,5 @@ WebSearch を使って、今日のニュースを検索する
 `.claude/skills/create-todays-post/format.md` を参照する
 
 ## ルール
-
 - 既に同じ日付のMarkdownファイルが存在する場合は、上書きする
 - 過去の日付のファイルは新規作成しない
